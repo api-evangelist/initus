@@ -1,0 +1,16 @@
+generated: '2026-10-20'
+method: none
+source:
+- https://zapier.com/apps/initus/integrations
+- https://n8n.io/integrations/initus/
+- https://composio.dev/toolkits/initus
+- https://monid.ai/tools/initus
+checked:
+- https://composio.dev/toolkits/initus
+- https://monid.ai/tools/initus
+- https://n8n.io/integrations/initus/
+- https://zapier.com/apps/initus/integrations
+summary: null
+marketplace_apps: []
+edges: []
+templates: []

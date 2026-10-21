@@ -1,23 +1,68 @@
 aid: initus
+
 name: Initus
-description: 'Initus is a company surfaced via the API Evangelist harvest backlog (source: g2-catalog)
-  and added to the network as a stub for full-pipeline profiling.'
+
+image: https://initus.io/wp-content/uploads/2026/04/Initus.io-Homepage-featured-image.jpg
+
+description: 'Initus provides AI-powered integration and workflow automation solutions, enabling seamless system connections, data migration, and intelligent process orchestration for businesses. Their cloud-based platform combines consulting, a proprietary toolkit, and AI-driven automation to design, implement, and manage complex integrations, helping enterprises accelerate digital transformation and improve operational efficiency.'
+
 url: https://raw.githubusercontent.com/api-evangelist/initus/refs/heads/main/apis.yml
+
 x-type: company
+
 x-source: harvest:g2-catalog
-x-tier: stub
-x-tier-reason: harvest
+
+x-tier: profiled
+x-tier-reason: enrichment pass 2026-10-20 (modular-v1; was harvest)
+
 specificationVersion: '0.20'
+
 created: '2026-10-20'
+
 modified: '2026-10-20'
+
 tags:
-- Company
-apis: []
+- Integration
+- Workflow Automation
+- AI
+- Consulting
+- ERP
+- CRM
+- E‑commerce
+
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+
 common:
+- type: Plans
+  url: plans/initus-plans-pricing.yml
+- type: LLMsTxt
+  url: llms/initus-llms.txt
+- type: Hosts
+  url: hosts/initus-hosts.yml
+- type: Blog
+  url: https://initus.io/blog
+- type: DomainSecurity
+  url: security/initus-domain-security.yml
 - type: Website
   url: https://initus.io/
+
+apis: []
+
+x-coverage:
+  state: unreadable
+  reason: js-rendered-docs
+  detail: The homepage returns HTML and JavaScript without a machine‑readable OpenAPI spec.
+  evidence:
+    - url: https://initus.io/
+      status: 200
+  checked: '2026-10-21'
+x-enrichment:
+  date: '2026-10-20'
+  status: enriched
+  artifacts_added: 10
+  pass: modular-v1
+  engine: identity=local,contract=local,surfaces=local,docs=local,regulatory=local

@@ -1,0 +1,66 @@
+generated: '2026-10-20'
+method: searched
+generator: extract-docs-artifacts.py (local)
+source: https://initus.io/solutions-pricing/
+sources:
+- https://initus.io/solutions-pricing/
+name: Initus pricing
+audience: business-product
+pricing_basis: per-seat
+plans:
+- name: InitusIO Advanced
+  price_text: USD $399 / per month
+  price: 399
+  description: Recommended solution for connecting two systems with lighter transaction volumes.
+- name: InitusIO Professional
+  price_text: USD $500 / per month
+  price: 500
+  description: Recommended solution for managing multiple interconnected business processes between 2 systems with moderate transaction volumes.
+- name: InitusIO Enterprise
+  price_text: USD $1,000 / per month
+  price: 1000
+  description: Recommended solution for integrating up to 3 systems with high transaction volumes.
+- name: InitusGPT
+  price_text: USD $625 / per month
+  price: 625
+  description: AI‑powered assistant for NetSuite, Salesforce and more.
+- name: InitusAgent (GPT add‑on)
+  price_text: USD $0.60 / per action
+  price: 0.6
+  description: Effortlessly manage records via a simple chat interface.
+- name: InitusVault Lite
+  price_text: USD $500 / per month
+  price: 500
+  description: Archive, access, and visualize historical data from retired systems.
+- name: InitusVault Professional
+  price_text: USD $750 / per month
+  price: 750
+  description: Archive, access, and visualize historical data with larger capacity.
+- name: InitusVault Enterprise
+  price_text: USD $1,000 / per month
+  price: 1000
+  description: Enterprise‑grade archival solution with Power BI connector.
+- name: InitusIDP Lite
+  price_text: USD $300 / per month
+  price: 300
+  description: Turn document data into system actions – 300 documents.
+- name: InitusIDP Standard
+  price_text: USD $599 / per month
+  price: 599
+  description: Turn document data into system actions – 500 documents.
+- name: InitusIDP Enterprise
+  price_text: USD $1,000 / per month
+  price: 1000
+  description: Turn document data into system actions – 1,000 documents.
+- name: InitusApprove
+  price_text: USD $150 / per month
+  price: 150
+  description: Streamline approvals – includes $10K USD implementation fee.
+- name: InitusDunning
+  price_text: USD $80 / per month
+  price: 80
+  description: Improve invoice follow‑ups – includes $8K USD implementation fee.
+- name: InitusMigrate
+  price_text: Custom Quote, Fixed Fee
+  description: Mitigate the risk of data migration.
+docs: https://initus.io/solutions-pricing/

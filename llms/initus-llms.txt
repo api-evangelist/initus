@@ -1,0 +1,126 @@
+# Answer Engine Optimization - initus
+Generated: August 10, 2026
+
+## SDL Metadata
+
+# Entity Model Summary (https://app-lawma-prod-ai-api-westus2-001-g9cshwd4bvhyh3bj.westus2-01.azurewebsites.net/lawmafiles/initus/entity_model_summary)
+Entity Model Summary for initus
+
+# Variables (https://app-lawma-prod-ai-api-westus2-001-g9cshwd4bvhyh3bj.westus2-01.azurewebsites.net/lawmafiles/initus/variables)
+Variables for initus
+
+## Question Categories
+
+# AI (https://app-lawma-prod-ai-api-westus2-001-g9cshwd4bvhyh3bj.westus2-01.azurewebsites.net/lawmafiles/initus/ai)
+AI questions and answers for initus
+
+# AI OPINION (https://app-lawma-prod-ai-api-westus2-001-g9cshwd4bvhyh3bj.westus2-01.azurewebsites.net/lawmafiles/initus/ai_opinion)
+AI OPINION questions and answers for initus
+
+# AI SECURITY (https://app-lawma-prod-ai-api-westus2-001-g9cshwd4bvhyh3bj.westus2-01.azurewebsites.net/lawmafiles/initus/ai_security)
+AI SECURITY questions and answers for initus
+
+# AUDIENCE (https://app-lawma-prod-ai-api-westus2-001-g9cshwd4bvhyh3bj.westus2-01.azurewebsites.net/lawmafiles/initus/audience)
+AUDIENCE questions and answers for initus
+
+# AUDIENCE OPINION (https://app-lawma-prod-ai-api-westus2-001-g9cshwd4bvhyh3bj.westus2-01.azurewebsites.net/lawmafiles/initus/audience_opinion)
+AUDIENCE OPINION questions and answers for initus
+
+# CATEGORY DIFFERENTIATION (https://app-lawma-prod-ai-api-westus2-001-g9cshwd4bvhyh3bj.westus2-01.azurewebsites.net/lawmafiles/initus/category_differentiation)
+CATEGORY DIFFERENTIATION questions and answers for initus
+
+# CONTRACT (https://app-lawma-prod-ai-api-westus2-001-g9cshwd4bvhyh3bj.westus2-01.azurewebsites.net/lawmafiles/initus/contract)
+CONTRACT questions and answers for initus
+
+# CONTRACT SECURITY (https://app-lawma-prod-ai-api-westus2-001-g9cshwd4bvhyh3bj.westus2-01.azurewebsites.net/lawmafiles/initus/contract_security)
+CONTRACT SECURITY questions and answers for initus
+
+# DIFFERENTIATION (https://app-lawma-prod-ai-api-westus2-001-g9cshwd4bvhyh3bj.westus2-01.azurewebsites.net/lawmafiles/initus/differentiation)
+DIFFERENTIATION questions and answers for initus
+
+# DIFFERENTIATION OPINION (https://app-lawma-prod-ai-api-westus2-001-g9cshwd4bvhyh3bj.westus2-01.azurewebsites.net/lawmafiles/initus/differentiation_opinion)
+DIFFERENTIATION OPINION questions and answers for initus
+
+# DISCOVERY (https://app-lawma-prod-ai-api-westus2-001-g9cshwd4bvhyh3bj.westus2-01.azurewebsites.net/lawmafiles/initus/discovery)
+DISCOVERY questions and answers for initus
+
+# EDUCATION (https://app-lawma-prod-ai-api-westus2-001-g9cshwd4bvhyh3bj.westus2-01.azurewebsites.net/lawmafiles/initus/education)
+EDUCATION questions and answers for initus
+
+# EDUCATION OPINION (https://app-lawma-prod-ai-api-westus2-001-g9cshwd4bvhyh3bj.westus2-01.azurewebsites.net/lawmafiles/initus/education_opinion)
+EDUCATION OPINION questions and answers for initus
+
+# FEATURES (https://app-lawma-prod-ai-api-westus2-001-g9cshwd4bvhyh3bj.westus2-01.azurewebsites.net/lawmafiles/initus/features)
+FEATURES questions and answers for initus
+
+# FEATURES OPINION (https://app-lawma-prod-ai-api-westus2-001-g9cshwd4bvhyh3bj.westus2-01.azurewebsites.net/lawmafiles/initus/features_opinion)
+FEATURES OPINION questions and answers for initus
+
+# GENERAL (https://app-lawma-prod-ai-api-westus2-001-g9cshwd4bvhyh3bj.westus2-01.azurewebsites.net/lawmafiles/initus/general)
+GENERAL questions and answers for initus
+
+# IDENTITY (https://app-lawma-prod-ai-api-westus2-001-g9cshwd4bvhyh3bj.westus2-01.azurewebsites.net/lawmafiles/initus/identity)
+IDENTITY questions and answers for initus
+
+# INTEGRATION (https://app-lawma-prod-ai-api-westus2-001-g9cshwd4bvhyh3bj.westus2-01.azurewebsites.net/lawmafiles/initus/integration)
+INTEGRATION questions and answers for initus
+
+# INTEGRATION OPINION (https://app-lawma-prod-ai-api-westus2-001-g9cshwd4bvhyh3bj.westus2-01.azurewebsites.net/lawmafiles/initus/integration_opinion)
+INTEGRATION OPINION questions and answers for initus
+
+# ONBOARDING (https://app-lawma-prod-ai-api-westus2-001-g9cshwd4bvhyh3bj.westus2-01.azurewebsites.net/lawmafiles/initus/onboarding)
+ONBOARDING questions and answers for initus
+
+# ONBOARDING OPINION (https://app-lawma-prod-ai-api-westus2-001-g9cshwd4bvhyh3bj.westus2-01.azurewebsites.net/lawmafiles/initus/onboarding_opinion)
+ONBOARDING OPINION questions and answers for initus
+
+# OPINION (https://app-lawma-prod-ai-api-westus2-001-g9cshwd4bvhyh3bj.westus2-01.azurewebsites.net/lawmafiles/initus/opinion)
+OPINION questions and answers for initus
+
+# OPINION DIFFERENTIATION (https://app-lawma-prod-ai-api-westus2-001-g9cshwd4bvhyh3bj.westus2-01.azurewebsites.net/lawmafiles/initus/opinion_differentiation)
+OPINION DIFFERENTIATION questions and answers for initus
+
+# PLATFORM (https://app-lawma-prod-ai-api-westus2-001-g9cshwd4bvhyh3bj.westus2-01.azurewebsites.net/lawmafiles/initus/platform)
+PLATFORM questions and answers for initus
+
+# PRICING (https://app-lawma-prod-ai-api-westus2-001-g9cshwd4bvhyh3bj.westus2-01.azurewebsites.net/lawmafiles/initus/pricing)
+PRICING questions and answers for initus
+
+# PRICING FEATURES (https://app-lawma-prod-ai-api-westus2-001-g9cshwd4bvhyh3bj.westus2-01.azurewebsites.net/lawmafiles/initus/pricing_features)
+PRICING FEATURES questions and answers for initus
+
+# PRICING OPINION (https://app-lawma-prod-ai-api-westus2-001-g9cshwd4bvhyh3bj.westus2-01.azurewebsites.net/lawmafiles/initus/pricing_opinion)
+PRICING OPINION questions and answers for initus
+
+# PROBLEM (https://app-lawma-prod-ai-api-westus2-001-g9cshwd4bvhyh3bj.westus2-01.azurewebsites.net/lawmafiles/initus/problem)
+PROBLEM questions and answers for initus
+
+# RELIABILITY (https://app-lawma-prod-ai-api-westus2-001-g9cshwd4bvhyh3bj.westus2-01.azurewebsites.net/lawmafiles/initus/reliability)
+RELIABILITY questions and answers for initus
+
+# RELIABILITY OPINION (https://app-lawma-prod-ai-api-westus2-001-g9cshwd4bvhyh3bj.westus2-01.azurewebsites.net/lawmafiles/initus/reliability_opinion)
+RELIABILITY OPINION questions and answers for initus
+
+# ROADMAP (https://app-lawma-prod-ai-api-westus2-001-g9cshwd4bvhyh3bj.westus2-01.azurewebsites.net/lawmafiles/initus/roadmap)
+ROADMAP questions and answers for initus
+
+# ROADMAP OPINION (https://app-lawma-prod-ai-api-westus2-001-g9cshwd4bvhyh3bj.westus2-01.azurewebsites.net/lawmafiles/initus/roadmap_opinion)
+ROADMAP OPINION questions and answers for initus
+
+# SECURITY (https://app-lawma-prod-ai-api-westus2-001-g9cshwd4bvhyh3bj.westus2-01.azurewebsites.net/lawmafiles/initus/security)
+SECURITY questions and answers for initus
+
+# SECURITY OPINION (https://app-lawma-prod-ai-api-westus2-001-g9cshwd4bvhyh3bj.westus2-01.azurewebsites.net/lawmafiles/initus/security_opinion)
+SECURITY OPINION questions and answers for initus
+
+# SUPPORT (https://app-lawma-prod-ai-api-westus2-001-g9cshwd4bvhyh3bj.westus2-01.azurewebsites.net/lawmafiles/initus/support)
+SUPPORT questions and answers for initus
+
+# SUPPORT OPINION (https://app-lawma-prod-ai-api-westus2-001-g9cshwd4bvhyh3bj.westus2-01.azurewebsites.net/lawmafiles/initus/support_opinion)
+SUPPORT OPINION questions and answers for initus
+
+# VIABILITY (https://app-lawma-prod-ai-api-westus2-001-g9cshwd4bvhyh3bj.westus2-01.azurewebsites.net/lawmafiles/initus/viability)
+VIABILITY questions and answers for initus
+
+# VIABILITY OPINION (https://app-lawma-prod-ai-api-westus2-001-g9cshwd4bvhyh3bj.westus2-01.azurewebsites.net/lawmafiles/initus/viability_opinion)
+VIABILITY OPINION questions and answers for initus
